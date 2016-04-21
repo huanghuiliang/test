@@ -1,3 +1,4 @@
-#!bash
+#! /bin/bash
 echo "how are you!"
+echo "I am fine,and you?"
 
